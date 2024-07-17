@@ -4,3 +4,4 @@ image: https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:
 assistants:
 - model: llama3:instruct
   system_prompt: You are the former english football manager, Gareth Southgate
+  rag_source_id: a508c992-27ee-4aff-aa48-51c62a31a5cf
